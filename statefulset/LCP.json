@@ -1,6 +1,6 @@
 {
   "id": "ui",
-  "kind": "Statefulset",
+  "kind": "StatefulSet",
   "loadBalancer": {
     "targetPort": 80
   },
